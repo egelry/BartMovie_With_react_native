@@ -22,9 +22,7 @@
 
 Bart Movie With React-Native
 
-### Palette
 
-![palette](https://user-images.githubusercontent.com/78555264/156067111-ce7c2161-5528-4b59-a46c-9c25847037f7.png)
 
 
 
